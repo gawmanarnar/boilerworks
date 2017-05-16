@@ -1,0 +1,6 @@
+// Workspace settings
+{
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false,
+    "editor.renderWhitespace": "all"
+}
